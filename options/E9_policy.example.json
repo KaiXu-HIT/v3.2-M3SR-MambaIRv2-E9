@@ -1,0 +1,5 @@
+{
+  "failure_gain_max": 0.015,
+  "shuffle_equivalence_margin": 0.01,
+  "clear_causality_min": 0.01
+}

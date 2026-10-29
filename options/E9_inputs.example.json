@@ -1,0 +1,10 @@
+{
+  "selection": "experiments/E4_selection/E4_selection.json",
+  "e4_report": "results/E4_udrv2/ablation/E4_ablation.json",
+  "e5_report": "results/E5_depth_causality/E5_causality.json",
+  "e5_csv": "results/E5_depth_causality/E5_per_image.csv",
+  "e6_report": "results/E6_multiseed/E6_multiseed.json",
+  "e7_report": "results/E7_image_statistics/E7_statistics.json",
+  "e7_csv": "results/E7_image_statistics/E7_per_image.csv",
+  "e8_metrics": []
+}
